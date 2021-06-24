@@ -1,0 +1,17 @@
+#myCanvas {
+    border-width:20px;
+    background-color: white; 
+    border-style: ridge;
+    height: 600;
+    width: 750;
+    cursor: pointer;
+}
+
+body.background{
+    background-image: url("bg1.jpg");
+}
+h1{
+    text-decoration: underline;
+    text-decoration-style: double;
+    font-family: Times;
+}
